@@ -17,7 +17,7 @@ const Navbar = () => {
         <ul className=' md:flex  hidden font-semibold monsterrat  '>
           <li> <Link to='/'onClick={() => {
                     window.scroll(0, 0);}} >Home</Link> </li>
-          <li><Link to='/queendom' onClick={() => {
+          <li><Link to='/queen' onClick={() => {
                     window.scroll(0, 0);}}  >Queendom</Link></li>
           <li><Link to='/ipada'onClick={() => {
                     window.scroll(0, 0);}}  > Ipada</Link></li>

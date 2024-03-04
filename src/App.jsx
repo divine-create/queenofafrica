@@ -25,7 +25,7 @@ const App = () => {
 
   </Route>
 
-  <Route path="/queendom" element={<QueenDom />} />
+  <Route path="/queen" element={<QueenDom />} />
   <Route path="/ipada" element={<Ipada />} />
 
   </Routes>

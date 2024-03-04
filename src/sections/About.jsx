@@ -44,8 +44,8 @@ const About = () => {
             <div className='flex mt-20 relative gap-48 text-[#281906]  '>
               <div className=' z-10 grid place-content-center text-center '>
                 <h2 className=' font-extrabold text-5xl font-Spectral'>Embracing A Queendom </h2>
-                <p className='m-4 '>See How Establishing a Queendom can change society</p>
-                <Link to="/queendom"
+                <p className='m-4 '>See How Establishing a Queendom can change The African Society</p>
+                <Link to="/queen"
                   onClick={() => {
                     window.scroll(0, 0);}}
                 ><button className="btn text-white bg-[#281906] btn-xs sm:btn-sm md:btn-md lg:btn-lg hover:bg-[#281906]">View Here <span> <FaArrowRight />
